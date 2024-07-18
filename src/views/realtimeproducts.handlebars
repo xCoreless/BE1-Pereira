@@ -1,0 +1,23 @@
+<H1>Productos de real</H1>
+
+<div id="contenedorProductos"></div>
+
+<h2>Formulario productos</h2>
+
+<form >
+    <input type="text" id="title" placeholder="Titulo">
+    <input type="text" id="description" placeholder="Descripción">
+    <input type="number" id="price" placeholder="Precio">
+    <input type="text" id="img" placeholder="sin imagen">
+    <input type="text" id="code" placeholder="Codigo">
+    <input type="number" id="stock" placeholder="Stock">
+    <input type="text" id="category" placeholder="Categoría">
+    <select id="status">
+        <option value="true"> Válido</option>
+        <option value="false">No Válido</option>
+    </select>
+    <button type="button" id="btnEnviar">Agregar</button>
+</form>
+
+<script src="https://cdn.socket.io/4.7.4/socket.io.min.js"></script>
+<script src="js/main.js"></script>

@@ -1,0 +1,238 @@
+[
+{
+    "title": "Handmade Chilean Woven Scarf",
+    "description": "This beautiful scarf is handwoven by traditional Chilean artisans using soft, high-quality wool. It's perfect for keeping warm on a chilly day or adding a touch of style to any outfit.",
+    "price": "$50 USD",
+    "img": "no image",
+    "code": "ABC123",
+    "stock": "10",
+    "category": "Clothing",
+    "status": true,
+    "thumbnail": "[]",
+    "id": 
+},
+
+{
+    "title": "Handwoven Chilean Alpaca Hat",
+    "description": "This luxurious hat is handwoven from soft alpaca wool by skilled Chilean artisans. It's incredibly warm and comfortable, perfect for cold weather days.",
+    "price": "$75 USD",
+    "img": "no image",
+    "code": "ABC124",
+    "stock": "5",
+    "category": "Clothing",
+    "status": true,
+    "thumbnail": "[]",
+    "id": 
+},
+
+{
+    "title": "Traditional Chilean Mate Gourd",
+    "description": "This beautiful mate gourd is handcrafted from natural materials and decorated with traditional Chilean designs. It's perfect for enjoying your favorite mate beverage.",
+    "price": "$30 USD",
+    "img": "no image",
+    "code": "ABC125",
+    "stock": "15",
+    "category": "Kitchenware",
+    "status": true,
+    "thumbnail": "[]",
+    "id": 
+},
+
+{
+    "title": "Genuine Chilean Lapis Lazuli Necklace",
+    "description": "This stunning necklace features a genuine Lapis Lazuli stone mined in Chile. The rich blue color and intricate silverwork make it a truly unique piece of jewelry.",
+    "price": "$120 USD",
+    "img": "no image",
+    "code": "ABC126",
+    "stock": "3",
+    "category": "Jewelry",
+    "status": true,
+    "thumbnail": "[]",
+    "id": 
+},
+
+{
+    "title": "Handmade Chilean Copper Wine Decanter",
+    "description": "This elegant wine decanter is handcrafted from pure Chilean copper. It's a beautiful and functional piece that will enhance your wine-drinking experience.",
+    "price": "$80 USD",
+    "img": "no image",
+    "code": "ABC127",
+    "stock": "8",
+    "category": "Homeware",
+    "status": true,
+    "thumbnail": "[]",
+    "id": 
+},
+
+{
+      "title": "Hand-carved Wooden Hummingbird Statue",
+      "description": "This beautiful statue is hand-carved from sustainable wood by talented Chilean artists. It depicts a hummingbird, a symbol of good luck and joy in many cultures. Perfect for adding a touch of nature and elegance to your home decor.",
+      "price": "$45 USD",
+      "img": "no image",
+      "code": "ABC128",
+      "stock": "20",
+      "category": "Homeware",
+      "status": true,
+      "thumbnail": "[]",
+      "id": 
+    },
+{
+      "title": "Warm Alpaca Wool Poncho",
+      "description": "This cozy poncho is made from 100% natural alpaca wool, known for its warmth and softness. It's perfect for layering on colder days or wearing as a stylish statement piece.",
+      "price": "$90 USD",
+      "img": "no image",
+      "code": "ABC129",
+      "stock": "12",
+      "category": "Clothing",
+      "status": true,
+      "thumbnail": "[]",
+      "id": 
+    },
+{
+      "title": "Patagonia Native Seed Bomb Kit",
+      "description": "This eco-friendly kit includes everything you need to grow your own wildflowers native to Patagonia. A fun and rewarding activity for all ages, and a great way to help restore native habitats.",
+      "price": "$25 USD",
+      "image": "no image",  
+      "code": "ABC130",
+      "stock": "50",
+      "category": "Other",
+      "status": true,
+      "thumbnail": "[]",
+      "id": 
+    },
+{
+      "title": "Assorted Chilean Chocolate Box",
+      "description": "This delightful box includes a variety of delicious Chilean chocolates, made with premium ingredients and traditional recipes. Perfect for indulging your sweet tooth or as a gift for any chocolate lover.",
+      "price": "$35 USD",
+      "img": "no image",
+      "code": "ABC131",
+      "stock": "18",
+      "category": "Food",
+      "status": true,
+      "thumbnail": "[]",
+      "id": 
+    },
+    {
+      "title": "Genuine Leather Mate Carrying Case",
+      "description": "This stylish carrying case is made from high-quality genuine leather and is designed to protect your mate gourd and bombilla (straw) while on the go. Perfect for any mate enthusiast.",
+      "price": "$60 USD",
+      "img": "no image",
+      "code": "ABC132",
+      "stock": "15",
+      "category": "Kitchenware",
+      "status": true,
+      "thumbnail": "[]",
+      "id": 
+    },
+
+    {
+        "title": "Patagonian Merino Wool T-Shirt (Unisex)",
+        "description": "This comfortable and breathable t-shirt is made from 100% Patagonian merino wool, perfect for any outdoor activity. Merino wool is known for its exceptional temperature regulation, keeping you warm in cool weather and cool in hot weather. It's also naturally odor-resistant, so you can stay fresh on your adventures.",
+        "price": "$40 USD",
+        "image": "no image",
+        "code": "ABC149",
+        "stock": 20,
+        "category": "Clothing",
+        "status": true,
+        "thumbnail": "[]",
+        "id": 
+      },
+      {
+        "title": "Chilean Wool Fingerless Gloves (Unisex)",
+        "description": "Keep your hands warm and stylish with these cozy fingerless gloves made from soft Chilean wool. These gloves are perfect for chilly mornings or evenings, allowing you to use your fingertips freely while keeping your hands warm. They come in a variety of neutral colors to complement any outfit.",
+        "price": "$25 USD",
+        "image": "no image",
+        "code": "ABC150",
+        "stock": 30,
+        "category": "Clothing",
+        "status": true,
+        "thumbnail": "[]",
+        "id": 
+      },
+      {
+        "title": "Patagonian Windbreaker Jacket (Unisex)",
+        "description": "This lightweight and water-resistant jacket is perfect for protecting you from the elements on your next Patagonian adventure. Made from a durable, yet breathable fabric, this jacket will shield you from wind and light rain while keeping you comfortable. It packs down into a compact size, making it easy to carry in your backpack.",
+        "price": "$100 USD",
+        "image": "no image",
+        "code": "ABC151",
+        "stock": 15,
+        "category": "Clothing",
+        "status": true,
+        "thumbnail": "[]",
+        "id": 
+      },
+      {
+        "title": "Hand-knitted Alpaca Wool Beanie (Multiple Colors)",
+        "description": "Stay warm and look stylish with this hand-knitted beanie made from luxurious alpaca wool. Alpaca wool is incredibly soft, warm, and hypoallergenic, making it ideal for sensitive skin. This beanie comes in a variety of vibrant colors to suit your taste, adding a touch of personality to your winter wardrobe.",
+        "price": "$35 USD",
+        "image": "no image",
+        "code": "ABC152",
+        "stock": " (vary by color)",
+        "category": "Clothing",
+        "status": true,
+        "thumbnail": "[]",
+        "id": 
+      },
+      {
+        "title": "Patagonian Hiking Socks (2-pack)",
+        "description": "These cushioned and moisture-wicking socks are perfect for long days on the trail. The thick cushioning provides comfort and support for your feet, while the moisture-wicking technology keeps your feet dry and prevents blisters. These socks are ideal for hiking, backpacking, or any other outdoor activity.",
+        "price": "$20 USD",
+        "image": "no image",
+        "code": "ABC153",
+        "stock": 40,
+        "category": "Clothing",
+        "status": true,
+        "thumbnail": "[]",
+        "id": 
+      },
+      {
+        "title": "Chilean Lapis Lazuli Earrings",
+        "description": "These elegant earrings feature genuine Lapis Lazuli stones, known for their beautiful blue color with flecks of gold pyrite. Lapis Lazuli is a gemstone with a rich history, prized for its beauty and believed to bring good luck and wisdom. These earrings are a timeless and sophisticated addition to any jewelry collection.",
+        "price": "$80 USD",
+        "image": "no image",
+        "code": "ABC154",
+        "stock": 5,
+        "category": "Jewelry",
+        "status": true,
+        "thumbnail": "[]",
+        "id": 
+      },
+      {
+        "title": "Woven Wool Friendship Bracelet (Multiple Colors)",
+        "description": "A charming and colorful bracelet handwoven from Chilean wool. This traditional bracelet is a symbol of friendship and comes in a variety of vibrant colors to represent different meanings. It's a perfect gift for a friend or a lovely souvenir to remember your trip to Chile.",
+        "price": "$10 USD",
+        "image": "no image",
+        "code": "ABC156",
+        "stock": " (vary by color)",
+        "category": "Jewelry",
+        "status": true,
+        "thumbnail": "[]",
+        "id": 
+      },
+      {
+        "title": "Handmade Wooden Bead Necklace",
+        "description": "A unique and stylish necklace featuring handcrafted wooden beads from Chile. Made from sustainably sourced wood and adorned with colorful accents, this necklace adds a touch of bohemian flair to any outfit. Each necklace is one-of-a-kind, showcasing the artistry of Chilean craftspeople.",
+        "price": "$20 USD",
+        "image": "no image",
+        "code": "ABC157",
+        "stock": 15,
+        "category": "Jewelry",
+        "status": true,
+        "thumbnail": "[]",
+        "id": 
+      },
+      {
+        "title": "Silver Patagonia Map Pendant",
+        "description": "This delicate pendant features a map of Patagonia crafted from sterling silver. A perfect memento of your Chilean adventure, this pendant keeps a piece of Patagonia close to your heart. The detailed map design captures the beauty of the region, making it a conversation starter and a cherished keepsake.",
+        "price": "$45 USD",
+        "image": "no image",
+        "code": "ABC158",
+        "stock": 20,
+        "category": "Jewelry",
+        "status": true,
+        "thumbnail": "[]",
+        "id": 
+      },
+
+
+]
